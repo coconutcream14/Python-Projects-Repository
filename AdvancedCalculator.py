@@ -3,7 +3,7 @@ import math
 
 memory = 0;
 while True:
-    print("Welcome to the Sprouts Academy Calculator!")
+    print("Welcome to the Advanced Calculator!")
     
     #Let the user input the two numbers
     num1 = float(input("Enter a number: "))
